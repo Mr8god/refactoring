@@ -13,11 +13,11 @@ public class Rental {
         _movie = movie;
         _daysRented = daysRented;
     }
-    public int get_daysRented() {
+    public int getDaysRented() {
         return _daysRented;
     }
 
-    public Movie get_movie() {
+    public Movie getMovie() {
         return _movie;
     }
 }
