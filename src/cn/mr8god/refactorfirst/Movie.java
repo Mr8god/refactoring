@@ -1,4 +1,4 @@
-package cn.mr8god.refactor_first;
+package cn.mr8god.refactorfirst;
 
 /**
  * @author Mr8god
